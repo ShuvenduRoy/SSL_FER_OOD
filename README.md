@@ -11,6 +11,9 @@ We used the following dataset
 1. [AffectNet](http://mohammadmahoor.com/affectnet/)
 2. [FER-13](https://www.kaggle.com/datasets/msambare/fer2013)
 3. [RAF-DB](http://www.whdeng.cn/RAF/model1.html)
+4. [KDEF](https://www.kdef.se/)
+5. [DDCF](https://lab.faceblind.org/k_dalrymple/ddcf)
+6. [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 Once the dataset is downloaded use the scripts in `datasets/preprocessing` to preprocess the dataset.
 The porcessed dataset structure should look like this:
@@ -44,6 +47,13 @@ Modify the config files in `config/` directory if needed.
 ```
 python [ALGO_NAME].py --c [CONFIG_FILE]
 ```
+
+
+### Acknowledgement
+This codebase is build upon the following repositories:
+- [TorchSSL](https://github.com/TorchSSL/TorchSSL)
+- [SemiCLS](https://github.com/TencentYoutuResearch/Classification-SemiCLS)
+- [CoMatch](https://github.com/salesforce/CoMatch)
 
 
  
