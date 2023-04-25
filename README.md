@@ -54,6 +54,9 @@ This codebase is build upon the following repositories:
 - [TorchSSL](https://github.com/TorchSSL/TorchSSL)
 - [SemiCLS](https://github.com/TencentYoutuResearch/Classification-SemiCLS)
 - [CoMatch](https://github.com/salesforce/CoMatch)
+<br>
+
+We thank the authors for releasing their code. If you use our model and code, please consider citing these works as well.
 
 
  
