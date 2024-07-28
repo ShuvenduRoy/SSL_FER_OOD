@@ -1,6 +1,6 @@
 Official implementation of our paper:
 
-> [**Exploring the Boundaries of Semi-Supervised Facial Expression Recognition using In-Distribution, Out-of-Distribution, and Unconstrained Data**](https://arxiv.org/abs/2306.01195) <br>
+> [**Exploring the Boundaries of Semi-Supervised Facial Expression Recognition using In-Distribution, Out-of-Distribution, and Unconstrained Data**](https://arxiv.org/abs/2306.01229) <br>
 > Shuvendu Roy, Ali Etemad<br>
 > In IEEE Transactions on Affective Computing, 2024
 
