@@ -7,4 +7,4 @@ Official implementation of our paper:
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2306.01229)
 
 
-# Code available at [https://github.com/ShuvenduRoy/TAFFC-SSL-FER](https://github.com/ShuvenduRoy/TAFFC-SSL-FER)
+![Figure](link.png)
